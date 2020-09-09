@@ -24,6 +24,6 @@
 
 <p align="center">
 <a href="https://www.https://maylortaylor.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.maylortaylor.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/maylortaylor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/maylortaylor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthew%20Taylor%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:maylortaylor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-MaylorTaylor@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
