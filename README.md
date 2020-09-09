@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions for phones and web.
-- 🎓 &nbsp; Studied Business Management/Marketing at University of Alabam 2011.
+- 🎓 &nbsp; Studied Business Management/Marketing at University of Alabama 2011.
 - 💼 &nbsp; Working as a Software Engineer at PowerChord Inc in St Petersburg, FL.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and FLUTTER phone development.
 - ✍️ &nbsp; Pursuing electronic chill live looping music and acoustic guitar as a hobby.
@@ -18,7 +18,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maylortaylor&show_icons=true)](https://github.com/AVS1508)
+[![MaylorTaylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maylortaylor&show_icons=true)](https://github.com/maylortaylor)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
