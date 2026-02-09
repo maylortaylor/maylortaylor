@@ -24,8 +24,6 @@
 
 <br/>
 
-[![MaylorTaylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maylortaylor&show_icons=true)](https://github.com/maylortaylor)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
