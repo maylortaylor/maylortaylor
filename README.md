@@ -2,19 +2,25 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions for phones and web.
-- 🎓 &nbsp; Studied Business Management/Marketing at University of Alabama 2011.
-- 💼 &nbsp; Working as a Software Engineer at PowerChord Inc in St Petersburg, FL.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and FLUTTER phone development.
-- ✍️ &nbsp; Pursuing electronic chill live looping music and acoustic guitar as a hobby.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions across full-stack web, mobile, and maritime defense systems.
+- 🎓 &nbsp; Studied Business Management/Marketing at University of Alabama (2011) with 1.5 years of computer programming.
+- 💼 &nbsp; Working as a Software Engineer at Polestar Defense as a US Coast Guard contractor with CLASSIFIED Government Clearance.
+- 🏆 &nbsp; Lead the Frontend Guild for Polestar Global, establishing React best practices across international teams.
+- 🌱 &nbsp; Learning more about DevOps workflows, Java (Quarkus), maritime systems architecture, and AI-powered development tools.
+- 🎹 &nbsp; Running my own piano and vocal instruction practice in St Petersburg, FL.
+- 🎸 &nbsp; Organizing music festivals and community events for local artists and creatives.
+- ✍️ &nbsp; Pursuing electronic chill live looping music and acoustic guitar as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; .NET | Flutter | C# | REST
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | VueJs
-- 🛢 &nbsp; MySQL | MongoDB | No-SQL
-- 🔧 &nbsp; Git | Markdown | Selenium | CypressJs
-- 🖥 &nbsp; Abelton Live
+- 💻 &nbsp; React | Java (Quarkus) | .NET Core | C# | Flutter | REST APIs
+- 🌐 &nbsp; Angular | Vue.js | JavaScript/TypeScript | HTML5 | CSS/LESS | Bootstrap | Node.js
+- 🛢 &nbsp; SQL | MySQL | MongoDB | CosmosDB | PostgreSQL
+- 🔧 &nbsp; Git | GitLab CI/CD | Azure | AWS | Docker | n8n Automation
+- 🧪 &nbsp; Jest | Cypress | K6 Load Testing | Selenium
+- 🎨 &nbsp; Graph Query Language (GQL) | DatoCMS
+- 🔐 &nbsp; CompTIA Security+ SY0-701 | ScrumMaster Certified (CSM)
+- 🖥 &nbsp; Ableton Live | AI Development Tools (Claude Code, Custom Agents)
 
 <br/>
 
